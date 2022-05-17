@@ -1,0 +1,33 @@
+
+
+.textcenter{
+
+    text-align: center;
+
+}
+.textlow{
+
+  text-align: center;
+  text-decoration: wavy;
+  font-family: cursive;  
+}
+
+.mx-auto{
+
+margin: auto;
+
+}
+.flex{
+display: flex;
+
+}
+.flex-col{
+
+    flex-direction: column;
+
+}
+.items-center{
+ 
+    align-items: center;
+
+}
